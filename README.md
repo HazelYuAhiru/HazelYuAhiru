@@ -1,5 +1,5 @@
-## NICE TO MEET YOU !
-<img src="https://github.com/HazelYuAhiru/HazelYuAhiru/blob/7d06ab4e984dd2617ff483c4e0b57646ebcd1205/pfp.jpg">
+## 🦆 NICE TO MEET YOU ! 🦆
+<img align="center" width="200" height="200" src="https://github.com/HazelYuAhiru/HazelYuAhiru/blob/7d06ab4e984dd2617ff483c4e0b57646ebcd1205/pfp.jpg">
 
 ## About Me
 + 📖 I’m currently a second-year student pursuing my Bachelors in Computer Science at University of California, Irvine.
