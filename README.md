@@ -1,8 +1,8 @@
-## 🦆 NICE TO MEET YOU ! 🦆
+## 🦆 HELLO
 <img align="center" width="200" height="200" src="https://github.com/HazelYuAhiru/HazelYuAhiru/blob/7d06ab4e984dd2617ff483c4e0b57646ebcd1205/pfp.jpg">
 
 ## About Me
-+ 📖 Third year CS major at UC Irvine
++ 📖 3rd CS major
 + 🦆 Pronouns: She/Her/Hers
 + 🎨 ...
   
