@@ -1,7 +1,4 @@
 ## 🦆 HELLO
-<img align="center" width="200" height="200" src="https://github.com/HazelYuAhiru/HazelYuAhiru/blob/7d06ab4e984dd2617ff483c4e0b57646ebcd1205/pfp.jpg">
-
-## About Me
 + 📖 4th year CS major + Math minor
 + 🦆 Pronouns: She/Her/Hers
 + 🎨 ...
