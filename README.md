@@ -1,7 +1,6 @@
-## 🦆 HELLO
-+ 📖 4th year CS major + Math minor
-+ 🦆 Pronouns: She/Her/Hers
-+ 🎨 ...
+## HELLO :D
++ 📖 CS major + Math minor @UC Irvine | MSE CIS @UPenn
++ 🎨 fan art/cat memes...
   
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HazelYuAhiru&layout=compact)](https://github.com/HazelYuAhiru/github-readme-stats)
